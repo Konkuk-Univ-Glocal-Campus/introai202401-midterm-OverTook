@@ -1,8 +1,5 @@
-중간고사: 컴퓨터 비전 문제<br>
-목표: 간단한 컨볼루션 신경망(CNN)을 사용하여 이미지 분류 작업을 수행합니다. 이 과제에서는 Fashion-MNIST 데이터셋을 사용합니다. Pytorch로 구현하세요.<br>
-학습관리시스템에 자신의 Python 코드와 데이터 파일이 저장된 github classroom repository link를 제출하시오 (코드는 github codespace에서 실행되어야 함)<br>
-과제 마감: 04.25 (목) 10:30<br>
-<br>
+<h1>202220960 고건호 보고서</h1>
+
 <h1><b>모델 성능 (훈련 단계)</b></h1>
 
 <b>Epoch: 01<br></b>
