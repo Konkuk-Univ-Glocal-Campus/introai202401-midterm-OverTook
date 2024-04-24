@@ -6,6 +6,7 @@
 (사진, 그래프 등은 주피터 노트북 내부에 첨부되었습니다.)
 
 모델 성능 (훈련 단계)
+
 Epoch: 01
 train loss = 0.598 train accuracy = 77.865
 validation loss = 0.358 validation accuracy = 86.378
