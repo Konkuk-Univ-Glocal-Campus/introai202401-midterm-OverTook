@@ -1,8 +1,8 @@
-중간고사: 컴퓨터 비전 문제
-목표: 간단한 컨볼루션 신경망(CNN)을 사용하여 이미지 분류 작업을 수행합니다. 이 과제에서는 Fashion-MNIST 데이터셋을 사용합니다. Pytorch로 구현하세요.
-학습관리시스템에 자신의 Python 코드와 데이터 파일이 저장된 github classroom repository link를 제출하시오 (코드는 github codespace에서 실행되어야 함)
-과제 마감: 04.25 (목) 10:30
-
+중간고사: 컴퓨터 비전 문제<br>
+목표: 간단한 컨볼루션 신경망(CNN)을 사용하여 이미지 분류 작업을 수행합니다. 이 과제에서는 Fashion-MNIST 데이터셋을 사용합니다. Pytorch로 구현하세요.<br>
+학습관리시스템에 자신의 Python 코드와 데이터 파일이 저장된 github classroom repository link를 제출하시오 (코드는 github codespace에서 실행되어야 함)<br>
+과제 마감: 04.25 (목) 10:30<br>
+<br>
 <h1><b>모델 성능 (훈련 단계)</b></h1>
 
 <b>Epoch: 01<br></b>
@@ -72,12 +72,12 @@ Test Accuracy: 92.63<br>
 Test Loss: 0.21479549486735824<br>
 
 <h1>Accuracy 변화</h1>
-<img src="https://github.com/Konkuk-Univ-Glocal-Campus/introai202401-midterm-OverTook/assets/20220857/cccbe4cf-5ed7-4fcb-998f-b6ad35982947"></img>
+<img src="https://github.com/Konkuk-Univ-Glocal-Campus/introai202401-midterm-OverTook/assets/20220857/cccbe4cf-5ed7-4fcb-998f-b6ad35982947"></img><br>
 Epoch가 20에 가까워짐에 따라 Train 정확도, Validation 정확도가 점차 상승하는 모습을 볼 수 있다.<br>
 하지만 일정 수준 이상으로 상승하면 정확도에 변동이 거의 없어진다.
 
 <h1>Loss 변화</h1>
-<img src="https://github.com/Konkuk-Univ-Glocal-Campus/introai202401-midterm-OverTook/assets/20220857/58ae52de-6878-4a61-a4d9-f2afde0e7a2e"></img>
+<img src="https://github.com/Konkuk-Univ-Glocal-Campus/introai202401-midterm-OverTook/assets/20220857/58ae52de-6878-4a61-a4d9-f2afde0e7a2e"></img><br>
 Epoch가 20에 가까워짐에 따라 Train Loss, Validation Loss가 점차 하강하는 모습을 볼 수 있다.<br>
 하지만 일정 수준 이상으로 상승하면 정확도에 변동이 거의 없어진다.
 
