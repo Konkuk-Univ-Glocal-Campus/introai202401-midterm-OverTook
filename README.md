@@ -10,7 +10,6 @@
 Epoch: 01
 
 train loss = 0.598 train accuracy = 77.865
-
 validation loss = 0.358 validation accuracy = 86.378
 
 Epoch: 02
